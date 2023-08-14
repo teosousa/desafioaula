@@ -1,8 +1,8 @@
 Fala Galera!
 Meu nome é Teófilo
 
-- Sou Testador de Software
-- Formado em Análise de Desenvolimento de Sistemas
+Sou Testador de Software
+Formado em Análise de Desenvolimento de Sistemas
 
 Hoje trabalho para uma fintech do grupo 4alls
 
